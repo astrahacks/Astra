@@ -77,7 +77,7 @@ echo "\033[31;1m->Press 0 To Exit                            ||"
 echo "\033[32;1m||___________________________________________||"
 read -p "root@Astra]~>" 
 
-if [ $astra = 1 ] || [ $astra = 1 ]
+if [ $sad = 1 ] || [ $sad = 1 ]
 then
 clear
 echo "\033[31;1m+÷÷÷÷[]===============> "
@@ -87,7 +87,7 @@ cd Black-Dragon
 python2 black.py
 fi
 
-if [ $astra = 2 ] || [ $astra = 2 ]
+if [ $sad = 2 ] || [ $sad = 2 ]
 then
 clear
 echo "\033[31;1m+÷÷÷÷[]===============> "
@@ -97,7 +97,7 @@ cd Black-Dragon
 bash ig.sh
 fi
 
-if [ $astra = 3 ] || [ $astra = 3 ]
+if [ $sad = 3 ] || [ $sad = 3 ]
 then
 echo "\033[31;1m+÷÷÷÷[]===============> "
 figlet "Ddos Tools" | lolcat
@@ -106,7 +106,7 @@ cd Black-Dragon
 python2 ddos.py 
 fi
 
-if [ $astra = 4 ] || [ $astra = 4 ]
+if [ $sad = 4 ] || [ $sad = 4 ]
 then
 clear
 echo "\033[31;1m+÷÷÷÷[]===============> "
@@ -116,7 +116,7 @@ cd Black-Dragon
 sh black.sh
 fi
 
-if [ $astra = 0 ] || [ $astra = 0 ]
+if [ $sad = 0 ] || [ $sad = 0 ]
 then
 echo "\033[34;1m   .............           "
 echo "\033[34;1m           ..,.:ccc,.      "                          
@@ -141,7 +141,7 @@ echo "\033[34;1m                                           .'"
 echo "\033[34;1m                                            ."
 sleep 1
 echo "\033[31;1m+÷÷÷÷[]===============> "
-toilet -f slant -F gay " Astra" | lolcat
+toilet -f slant -F gay " sad" | lolcat
 echo "\033[31;1m+÷÷÷÷[]===============> "
 echo "\033[33;1-Thanks Cause Use Astra Tools"
 sleep 1
