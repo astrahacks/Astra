@@ -1,4 +1,6 @@
-# ASTRA-hacker
+# ASTRA-hacker#
+
+
 Tools Installer For Pentesting And Hack Account,Work On Terminal
 How To Install it 
 Tested On Termux(Android 6.0)
@@ -26,3 +28,6 @@ Features:
 
 please Dont Recode Bro
 
+Message me if anyone wants to learn hacking
+ do whatsapp feet +919685607490 Joined 
+whatsapp group ===>>https://chat.whatsapp.com/EbepSF2Z56M3fjEp6OYdhh
