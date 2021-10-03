@@ -75,7 +75,7 @@ echo "\033[33;1m|| [3].Ddos Tools                            ||"
 echo "\033[33;1m|| [4].Install More Tools                    ||"
 echo "\033[31;1m->Press 0 To Exit                            ||"
 echo "\033[32;1m||___________________________________________||"
-read -p "root@Astra]~>" 
+read -p "root@Astra]~>" hacks
 
 if [ $sad = 1 ] || [ $sad = 1 ]
 then
